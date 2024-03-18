@@ -1,0 +1,23 @@
+Họ và tên: Đoàn Trọng Quân
+Email: trongquan202@gmail.com
+SĐT: 0373554038
+Khóa học: FullStack java
+
+Những việc đã làm được:
+ + ) Backend:
+Phân quyền (admin, user ) , đăng nhập, đăng ký xác nhận email bằng OTP, Quên mật khẩu xác nhận email bằng OTP, đổi mật khẩu, Thay đổi thông tin cá nhân, Xác thực bằng JWT và RefreshToken
+Chức năng Admin: 
+Thêm, Cập nhật, xóa Movie, schedule, bill, room, cinema, user, seat, banner
+Thống kê doanh thu theo rạp
+Thống kê đồ ăn bán chạy
+
+Chức năng user:
+Chọn rạp --> chọn phim --> chọn phòng, chọn lịch chiếu --> chọn đồ ăn--> Thanh toán VNPay -- > Nhận mã xác nhận về email sau khi thanh toán thành công.
++ ) Frontend:
+Đăng nhập, đăng ký, đổi mật khẩu, quên mật khẩu
+Thông tin các nhân, xem điểm tích lũy, cấp bậc.
+Giao diện trang home, hiển thị phim theo số lượng vé đã bán 
+Xem Trailler phim, chi tiết phim, xem lịch chiếu của từng ngày theo bộ phim
+Trạng thái ghế ngồi theo phòng và lịch chiếu ( ghế trống, đang chọn, đã bán ) 
+Chọn đồ ăn, nhập mã voucher
+Trang thanh toán VNPay
